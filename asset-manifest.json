@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bookcompany/static/css/main.6699720c.css",
+    "main.js": "/bookcompany/static/js/main.dd1dccbe.js",
+    "static/media/what-we-offer.jpg": "/bookcompany/static/media/what-we-offer.6e2eafedbb7c29b0bd5e.jpg",
+    "index.html": "/bookcompany/index.html",
+    "main.6699720c.css.map": "/bookcompany/static/css/main.6699720c.css.map",
+    "main.dd1dccbe.js.map": "/bookcompany/static/js/main.dd1dccbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6699720c.css",
+    "static/js/main.dd1dccbe.js"
+  ]
+}
